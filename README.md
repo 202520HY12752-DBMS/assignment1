@@ -3,7 +3,7 @@
 다양한 SQL Query 문제를 풀며 사용법을 익힙니다.
 
 1. PDF로 제공된 Assignment 1의 GitHub Classroom repository 초대 링크를 통해 자신의 repository를 생성합니다.
-2. Repository의 이름을 git-homework-[본인 학번] 으로 변경합니다.
+2. Repository의 이름을 assignment1-[본인 학번] 으로 변경합니다.
 3. 해당 repository를 clone 받습니다.
 4. README.md에 본인의 이름과 학번을 기입합니다.
 5. 각 문제에 대한 쿼리를 (문제번호).sql에 작성합니다.
